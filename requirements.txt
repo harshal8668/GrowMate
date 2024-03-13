@@ -1,0 +1,12 @@
+Flask==2.2.2
+gunicorn==21.2.0
+keras==2.15.0
+openai==0.28.0
+opencv-python==4.9.0.80
+scikit-learn-intelex==20230426.121932
+scipy==1.11.1
+tensorflow==2.15.0
+tensorflow-estimator==2.15.0
+tensorflow-hub==0.15.0
+tensorflow-intel==2.15.0
+Werkzeug==2.2.2
